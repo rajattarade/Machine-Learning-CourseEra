@@ -1,2 +1,2 @@
-# Machine-Learning-CourseEra
-The series of codes I have completed and implemented while attending the course.
+# Machine-Learning
+The series of codes I have completed and implemented while attending the machine learning course.
